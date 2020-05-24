@@ -9,7 +9,7 @@
 
     You can change port number 8001 of [docker-compose.yml](/docker-compose.yml), but don't change docker container port number 8080 this time.
 
-1. Open `http://localhost:8001/` and check if you can see swagger-ui page.
+1. Open [http://localhost:8001/](http://localhost:8001/) and check if you can see swagger-ui page.
 
 # Documentation
 
